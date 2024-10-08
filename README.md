@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 npm create amplify@latest
 npm i @aws-amplify/ui-react
 npm i @aws-amplify/adapter-nextjs
+git init
+git add .
+git commit -m "first commit"
